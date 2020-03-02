@@ -1,2 +1,4 @@
-﻿  最小路径和.cpp
-  每日一题2.vcxproj -> E:\bite learn\每日一题2\Debug\每日一题2.exe
+﻿G:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(每日一题2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  最长递增子序列的个数.cpp
+e:\bite learn\动态规划集锦\每日一题2\最长递增子序列的个数.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  每日一题2.vcxproj -> E:\bite learn\动态规划集锦\Debug\动态规划集锦.exe
