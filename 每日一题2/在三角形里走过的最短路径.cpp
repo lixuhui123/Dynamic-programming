@@ -37,7 +37,7 @@
 //			{
 //				if (j==0)
 //				{
-//					//左边第一列
+//					//左边第一列，、、、、
 //					minPath[i][j] = triangle[i][0] + minPath[i - 1][0];
 //				}
 //				else if (j==i)
